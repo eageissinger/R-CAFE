@@ -10,8 +10,7 @@ All material for each training session will be available here.
 ##### **(Tentative dates listed)** 
 
 ### Introduction to R: Part 1 
-*25 January 2023* 
-**10:00 - 11:30 am** 
+**25 January 2023, 10:00 - 11:30 am** 
 
 An introduction to R and Rstudio, ideal for first time users 
 *Objectives* 
@@ -22,8 +21,7 @@ An introduction to R and Rstudio, ideal for first time users
 - Getting help in R 
 
 ### Introduction to R: Part 2 
-*1 February 2023* 
-**10:00 - 11:30 am** 
+**1 February 2023, 10:00 - 11:30 am** 
 
 Further introduction to R 
 *Objectives* 
@@ -33,8 +31,7 @@ Further introduction to R
 - Vectorization 
 
 ### Working with data in R 
-*8 February 2023* 
-**10:00 - 12:00 pm** 
+**8 February 2023, 10:00 - 12:00 pm** 
  
 Learn how to work with datasets in R  
 *Objectives* 
@@ -43,8 +40,7 @@ Learn how to work with datasets in R
 - Dataframe manipulation 
 
 ### Data visualization 
-*15 February 2023* 
-**10:00 - 12:00 pm** 
+**15 February 2023, 10:00 - 12:00 pm** 
 
 An introduction to plotting data in R 
 *Objectives* 
@@ -53,8 +49,7 @@ An introduction to plotting data in R
 - Manipulate aesthetics of plots (colours, shapes, lines) 
 
 ### Advanced data wranging 
-*22 February 2023* 
-**10:00 - 12:00 pm** 
+**22 February 2023, 10:00 - 12:00 pm** 
 
 A deeper dive into tidyverse to increase efficiency when working with data. 
 Will cover useful functions from: 
@@ -64,8 +59,7 @@ Will cover useful functions from:
 - forcats 
 
 ### Advanced data visualization  
-*8 March 2023* 
-**10:00 - 12:00 pm** 
+**8 March 2023, 10:00 - 12:00 pm** 
 
 Learn how to customize figures for presentations and publications with ggplot 
 *Objectives* 
