@@ -2,9 +2,9 @@
 
 R training sessions for Coastal and Freshwater Ecology are geared for all levels of R users. Sessions are scheduled for 2 hours. 
 
-Hour 1: "Live coding": instructor teachers material through code in real-time. Participants are encouraged to "code-along" and work through material and exercies throughout the session. 
+Hour 1: "Live coding": instructor teachers material through code in real-time. Participants are encouraged to "code-along" and work through material and exercises throughout the session. 
 
-Hour 2: Coding challenge (optional); partipants are also welcome to bring their own data or code to ask questions relevant to the training session.
+Hour 2: Coding challenge (optional); participants are also welcome to bring their own data or code to ask questions relevant to the training session.
 
 
 All material for each training session will be available here. 
