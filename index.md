@@ -56,7 +56,7 @@ An introduction to plotting data in R.
 - Introduce available figure formats 
 - Manipulate aesthetics of plots (colours, shapes, lines) 
 
-### Advanced data wranging 
+### Advanced data wrangling 
 *22 February 2023, 10:00 - 12:00 pm* 
 
 A deeper dive into tidyverse to increase efficiency when working with data. 
