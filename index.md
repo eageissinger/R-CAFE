@@ -9,10 +9,9 @@ Hour 2: Coding challenge (optional); participants are also welcome to bring thei
 
 All material for each training session will be available here. 
 
+**Update:** Material from ***Introduction to R: Part 1*** will be available later today (Monday, January 30). Thank you for your patience and understanding.
 
-## Upcoming Training Sessions  
-##### *(Tentative dates listed)* 
-
+## Past Sessions
 ### Introduction to R: Part 1 
 *25 January 2023, 10:00 - 11:30 am* 
 
@@ -24,6 +23,8 @@ An introduction to R and Rstudio, ideal for first time users.
 - Calling functions 
 - Working with packages 
 - Getting help in R 
+
+## Upcoming Training Sessions 
 
 ### Introduction to R: Part 2 
 *1 February 2023, 10:00 - 11:30 am* 
