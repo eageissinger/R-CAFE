@@ -27,9 +27,10 @@ Further introduction to R.
 #### Code from this session is available [here](https://github.com/eageissinger/R-CAFE/tree/main/IntroR). 
 
 Lesson content from this course was developed by [The Carpentries](https://carpentries.org). 
+
 The following lessons are: 
-[R for Reproducible Scientific Analysis: Introduction to R and RStudio](https://swcarpentry.github.io/r-novice-gapminder/01-rstudio-intro/index.html) 
-[R for Reproducible Scientific Analysis: Seeking Help](https://swcarpentry.github.io/r-novice-gapminder/03-seeking-help/index.html) 
+- [R for Reproducible Scientific Analysis: Introduction to R and RStudio](https://swcarpentry.github.io/r-novice-gapminder/01-rstudio-intro/index.html) 
+- [R for Reproducible Scientific Analysis: Seeking Help](https://swcarpentry.github.io/r-novice-gapminder/03-seeking-help/index.html) 
 
 An introduction to R and Rstudio, ideal for first time users. 
 
