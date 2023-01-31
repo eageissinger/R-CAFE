@@ -6,25 +6,9 @@ Hour 1: "Live coding": instructor teachers material through code in real-time. P
 
 Hour 2: Coding challenge (optional); participants are also welcome to bring their own data or code to ask questions relevant to the training session.
 
+All material for each training session will be available on this page. 
 
-All material for each training session will be available here. 
-
-#### **Update:** Material from ***Introduction to R: Part 1*** will be available Tuesday, January 31 (around 12pm NT). Thank you for your patience and understanding.
-
-## Past Sessions
-### Introduction to R: Part 1 
-*25 January 2023, 10:00 - 11:30 am* 
-
-An introduction to R and Rstudio, ideal for first time users. 
-
-**Objectives:** 
-- Navigating R Studio 
-- Variables in R 
-- Calling functions 
-- Working with packages 
-- Getting help in R 
-
-## Upcoming Training Sessions 
+## Next Training Session 
 
 ### Introduction to R: Part 2 
 *1 February 2023, 10:00 - 11:30 am* 
@@ -36,6 +20,27 @@ Further introduction to R.
 - Exploring dataframes 
 - Subsetting data 
 - Vectorization 
+
+
+## Past Sessions
+### Introduction to R: Part 1 (*25 Jan 2023*)
+#### Code from this session is available [here](https://github.com/eageissinger/R-CAFE/tree/main/IntroR). 
+
+Lesson content from this course was developed by [The Carpentries](https://carpentries.org). 
+The following lessons are:
+[R for Reproducible Scientific Analysis: Introduction to R and RStudio](https://swcarpentry.github.io/r-novice-gapminder/01-rstudio-intro/index.html)
+[R for Reproducible Scientific Analysis: Seeking Help](https://swcarpentry.github.io/r-novice-gapminder/03-seeking-help/index.html)
+
+An introduction to R and Rstudio, ideal for first time users. 
+
+**Objectives:** 
+- Navigating R Studio 
+- Variables in R 
+- Calling functions 
+- Working with packages 
+- Getting help in R 
+
+## Upcoming Training Sessions 
 
 ### Working with data in R 
 *8 February 2023, 10:00 - 12:00 pm* 
