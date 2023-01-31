@@ -9,7 +9,7 @@ Hour 2: Coding challenge (optional); participants are also welcome to bring thei
 
 All material for each training session will be available here. 
 
-#### **Update:** Material from ***Introduction to R: Part 1*** will be available later today (Monday, January 30). Thank you for your patience and understanding.
+#### **Update:** Material from ***Introduction to R: Part 1*** will be available Tuesday, January 31 (around 12pm NT). Thank you for your patience and understanding.
 
 ## Past Sessions
 ### Introduction to R: Part 1 
