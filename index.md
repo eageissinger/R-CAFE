@@ -10,19 +10,35 @@ All material for each training session will be available on this page.
 
 ## Next Training Session 
 
-### Introduction to R: Part 2 
-*1 February 2023, 10:00 - 11:30 am* 
+### Working with data in R 
+*8 February 2023, 10:00 - 12:00 pm* 
+ 
+Learn how to work with datasets in R.  
+
+**Objectives:** 
+- Spreadsheet best practices 
+- Splitting and combining dataframes 
+- Dataframe manipulation 
+
+
+
+## Past Sessions
+
+### Introduction to R: Part 2 (*1 Feb 2023*)
+#### Code from this session is available [here](https://github.com/eageissinger/R-CAFE/tree/main/IntroR).
+
+Lesson content from this course was developed by [The Carpentries](https://carpentries.org). 
+
+Material came from the following lessons: 
+- [R for Reproducible Scientific Analysis: Data Structures](https://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1/index.html) 
+- [R for Reproducible Scientific Analysis: Exploring Data Frames](https://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2/index.html) 
 
 Further introduction to R. 
 
 **Objectives:**
 - Data structures 
 - Exploring dataframes 
-- Subsetting data 
-- Vectorization 
-
-
-## Past Sessions
+- 
 ### Introduction to R: Part 1 (*25 Jan 2023*)
 #### Code from this session is available [here](https://github.com/eageissinger/R-CAFE/tree/main/IntroR). 
 
@@ -42,16 +58,6 @@ An introduction to R and Rstudio, ideal for first time users.
 - Getting help in R 
 
 ## Upcoming Training Sessions 
-
-### Working with data in R 
-*8 February 2023, 10:00 - 12:00 pm* 
- 
-Learn how to work with datasets in R.  
-
-**Objectives:** 
-- Spreadsheet best practices 
-- Splitting and combining dataframes 
-- Dataframe manipulation 
 
 ### Data visualization 
 *15 February 2023, 10:00 - 12:00 pm* 
