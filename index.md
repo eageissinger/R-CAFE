@@ -17,8 +17,11 @@ Learn how to work with datasets in R.
 
 **Objectives:** 
 - Spreadsheet best practices 
-- Splitting and combining dataframes 
-- Dataframe manipulation 
+- Reading data into R
+- Combining dataframes 
+- Creating new variables
+- Summary statistics
+- Exporting files 
 
 
 
