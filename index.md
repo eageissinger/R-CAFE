@@ -23,7 +23,7 @@ Learn how to work with datasets in R.
 - Summary statistics
 - Exporting files 
 
-
+Data for session [here](https://github.com/eageissinger/R-CAFE/tree/main/data/).
 
 ## Past Sessions
 
