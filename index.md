@@ -25,7 +25,7 @@ An introduction to plotting data in R.
 ## Past Sessions
 
 ### Working with data in R (*15 Feb 2023*)
-#### Code from this session will be availabe at 1PM on 21 Feb 2023.
+#### Code from this session is available [here](https://github.com/eageissinger/R-CAFE/tree/main/WorkingWithData).
  
 Learn how to work with datasets in R.  
 
