@@ -10,8 +10,22 @@ All material for each training session will be available on this page.
 
 ## Next Training Session 
 
-### Working with data in R 
-*15 February 2023, 10:00 - 12:00 pm* 
+### Data visualization 
+*22 February 2023, 10:00 - 12:00 pm* 
+
+An introduction to plotting data in R. 
+
+**Objectives:** 
+- Learn basic structure of ggplot 
+- Introduce available figure formats 
+- Manipulate aesthetics of plots (colours, shapes, lines) 
+
+#### Data for session [here](https://github.com/eageissinger/R-CAFE/tree/main/data/).
+
+## Past Sessions
+
+### Working with data in R (*15 Feb 2023*)
+#### Code from this session will be availabe at 1PM on 21 Feb 2023.
  
 Learn how to work with datasets in R.  
 
@@ -22,10 +36,6 @@ Learn how to work with datasets in R.
 - Creating new variables
 - Summary statistics
 - Exporting files 
-
-#### Data for session [here](https://github.com/eageissinger/R-CAFE/tree/main/data/).
-
-## Past Sessions
 
 ### Introduction to R: Part 2 (*1 Feb 2023*)
 #### Code from this session is available [here](https://github.com/eageissinger/R-CAFE/tree/main/IntroR).
@@ -62,15 +72,6 @@ An introduction to R and Rstudio, ideal for first time users.
 
 ## Upcoming Training Sessions 
 
-### Data visualization 
-*22 February 2023, 10:00 - 12:00 pm* 
-
-An introduction to plotting data in R. 
-
-**Objectives:** 
-- Learn basic structure of ggplot 
-- Introduce available figure formats 
-- Manipulate aesthetics of plots (colours, shapes, lines) 
 
 ### Advanced data wrangling 
 *8 March 2023, 10:00 - 12:00 pm* 
