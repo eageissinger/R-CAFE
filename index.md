@@ -9,9 +9,22 @@ Hour 2: Coding challenge (optional); participants are also welcome to bring thei
 All material for each training session will be available on this page. 
 
 ## Next Training Session 
+### Advanced data wrangling 
+*8 March 2023, 10:00 - 12:00 pm* 
 
-### Data visualization 
-*22 February 2023, 10:00 - 12:00 pm* 
+A deeper dive into tidyverse to increase efficiency when working with data. 
+
+We will cover useful functions from: 
+- tidyr 
+- dplyr 
+- stringr 
+- forcats 
+
+
+## Past Sessions
+
+### Data visualization (*22 Feb 2023*)
+#### Code from this session is available [here](https://github.com/eageissinger/R-CAFE/tree/main/WorkingWithData).
 
 An introduction to plotting data in R. 
 
@@ -21,8 +34,6 @@ An introduction to plotting data in R.
 - Manipulate aesthetics of plots (colours, shapes, lines) 
 
 #### Data for session [here](https://github.com/eageissinger/R-CAFE/tree/main/data/).
-
-## Past Sessions
 
 ### Working with data in R (*15 Feb 2023*)
 #### Code from this session is available [here](https://github.com/eageissinger/R-CAFE/tree/main/WorkingWithData).
@@ -72,17 +83,6 @@ An introduction to R and Rstudio, ideal for first time users.
 
 ## Upcoming Training Sessions 
 
-
-### Advanced data wrangling 
-*8 March 2023, 10:00 - 12:00 pm* 
-
-A deeper dive into tidyverse to increase efficiency when working with data. 
-
-We will cover useful functions from: 
-- tidyr 
-- dplyr 
-- stringr 
-- forcats 
 
 ### Advanced data visualization  
 *15 March 2023, 10:00 - 12:00 pm* 
