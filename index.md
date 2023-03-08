@@ -20,6 +20,7 @@ We will cover useful functions from:
 - stringr 
 - forcats 
 
+For this workshop, go to [this link](https://github.com/eageissinger/R-CAFE/blob/main/WorkingWithData/Session5_AdvancedData_fill-in.R) and copy the code into your project or working folder.
 
 ## Past Sessions
 
