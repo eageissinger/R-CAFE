@@ -9,20 +9,32 @@ Hour 2: Coding challenge (optional); participants are also welcome to bring thei
 All material for each training session will be available on this page. 
 
 ## Next Training Session 
-### Advanced data wrangling 
-*8 March 2023, 10:00 - 12:00 pm* 
+
+### Advanced data visualization  
+*15 March 2023, 10:00 - 12:00 pm* 
+
+Learn how to customize figures for presentations and publications with ggplot. 
+
+**Objectives:** 
+- Changes size of figures, lines, points, and text 
+- Add custom labels 
+- Create paneled figures 
+- Add model results to figures 
+
+
+## Past Sessions
+
+### Advanced data wrangling (*8 March 2023*)
+#### Code from this session is available [here](https://github.com/eageissinger/R-CAFE/tree/main/WorkingWithData).
 
 A deeper dive into tidyverse to increase efficiency when working with data. 
 
-We will cover useful functions from: 
+Cover some useful functions from: 
 - tidyr 
 - dplyr 
 - stringr 
 - forcats 
-
-For this workshop, go to [this link](https://github.com/eageissinger/R-CAFE/blob/main/WorkingWithData/Session5_AdvancedData_fill-in.R) and copy the code into your project or working folder.
-
-## Past Sessions
+- lubridate
 
 ### Data visualization (*22 Feb 2023*)
 #### Code from this session is available [here](https://github.com/eageissinger/R-CAFE/tree/main/WorkingWithData).
@@ -83,16 +95,6 @@ An introduction to R and Rstudio, ideal for first time users.
 - Getting help in R 
 
 ## Upcoming Training Sessions 
+TBD
 
-
-### Advanced data visualization  
-*15 March 2023, 10:00 - 12:00 pm* 
-
-Learn how to customize figures for presentations and publications with ggplot. 
-
-**Objectives:** 
-- Changes size of figures, lines, points, and text 
-- Add custom labels 
-- Create paneled figures 
-- Add model results to figures 
 
