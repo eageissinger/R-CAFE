@@ -23,7 +23,9 @@ Learn how to customize figures for presentations and publications with ggplot.
 - Format figure legends
 - Export figures
 
-**Before the session:** Please download the following code and check that it runs beforehand. If you have difficulty, please contact Emilie to troubleshoot the code.
+**Before the session:** Please copy/download the following [code](https://github.com/eageissinger/R-CAFE/blob/main/WorkingWithData/Session6_AdvancedDataVis_CodeAlong.R) and check that it runs beforehand. If you have difficulty, please contact Emilie to troubleshoot the code.
+
+We will be using the same datasets from last week. If you need to access the data, it is availabe [here](https://github.com/eageissinger/R-CAFE/tree/main/data/).
 
 ## Past Sessions
 
