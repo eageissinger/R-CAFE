@@ -16,11 +16,14 @@ All material for each training session will be available on this page.
 Learn how to customize figures for presentations and publications with ggplot. 
 
 **Objectives:** 
-- Changes size of figures, lines, points, and text 
-- Add custom labels 
-- Create paneled figures 
-- Add model results to figures 
+- Customize and format figures with theme()
+- Use multiple geoms to tell more with your figures
+- Create multi-panel figures
+- Add regression lines
+- Format figure legends
+- Export figures
 
+**Before the session:** Please download the following code and check that it runs beforehand. If you have difficulty, please contact Emilie to troubleshoot the code.
 
 ## Past Sessions
 
