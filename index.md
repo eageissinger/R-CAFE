@@ -1,5 +1,8 @@
 # R for Coastal and Freshwater Ecology
 
+R training sessions have finished for the season. The website will be updated with full tutorials by mid-April 2023. Session overview and material is available below.
+
+
 R training sessions for Coastal and Freshwater Ecology are geared for all levels of R users. Sessions are scheduled for 2 hours. 
 
 Hour 1: "Live coding": instructor teachers material through code in real-time. Participants are encouraged to "code-along" and work through material and exercises throughout the session. 
@@ -8,10 +11,10 @@ Hour 2: Coding challenge (optional); participants are also welcome to bring thei
 
 All material for each training session will be available on this page. 
 
-## Next Training Session 
+## Past Sessions
 
-### Advanced data visualization  
-*15 March 2023, 10:00 - 12:00 pm* 
+### Advanced data visualization (*15 March 2023*) 
+#### Code from this session is available [here](https://github.com/eageissinger/R-CAFE/tree/main/WorkingWithData).
 
 Learn how to customize figures for presentations and publications with ggplot. 
 
@@ -27,7 +30,6 @@ Learn how to customize figures for presentations and publications with ggplot.
 
 We will be using the same datasets from last week. If you need to access the data, it is availabe [here](https://github.com/eageissinger/R-CAFE/tree/main/data/).
 
-## Past Sessions
 
 ### Advanced data wrangling (*8 March 2023*)
 #### Code from this session is available [here](https://github.com/eageissinger/R-CAFE/tree/main/WorkingWithData).
